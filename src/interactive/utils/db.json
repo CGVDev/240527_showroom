@@ -1,0 +1,6886 @@
+{
+    
+    "departments": [
+        {
+            "uuid": "X0103",
+            "type": "X01",
+            "floor": "03",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+
+        },
+        {
+            "uuid": "X0104",
+            "type": "X01",
+            "floor": "04",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T13-16",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+
+        },
+        {
+            "uuid": "X0105",
+            "type": "X01",
+            "floor": "05",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T14-15",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0106",
+            "type": "X01",
+            "floor": "06",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0107",
+            "type": "X01",
+            "floor": "07",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T13-16",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0108",
+            "type": "X01",
+            "floor": "08",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T14-15",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0109",
+            "type": "X01",
+            "floor": "09",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0110",
+            "type": "X01",
+            "floor": "10",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T13-16",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0111",
+            "type": "X01",
+            "floor": "11",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T14-15",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0112",
+            "type": "X01",
+            "floor": "12",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0113",
+            "type": "X01",
+            "floor": "13",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0114",
+            "type": "X01",
+            "floor": "14",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+
+
+        {
+            "uuid": "X1003",
+            "type": "X10",
+            "floor": "03",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+
+        },
+        {
+            "uuid": "X1004",
+            "type": "X10",
+            "floor": "04",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+
+        },
+        {
+            "uuid": "X1005",
+            "type": "X10",
+            "floor": "05",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1006",
+            "type": "X10",
+            "floor": "06",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1007",
+            "type": "X10",
+            "floor": "07",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1008",
+            "type": "X10",
+            "floor": "08",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1009",
+            "type": "X10",
+            "floor": "09",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1010",
+            "type": "X10",
+            "floor": "10",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1011",
+            "type": "X10",
+            "floor": "11",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1012",
+            "type": "X10",
+            "floor": "12",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1013",
+            "type": "X10",
+            "floor": "13",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1014",
+            "type": "X10",
+            "floor": "14",
+            "area": 41,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+
+
+        {
+            "uuid": "X0203",
+            "type": "X02",
+            "floor": "03",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+
+        },
+        {
+            "uuid": "X0204",
+            "type": "X02",
+            "floor": "04",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+
+        },
+        {
+            "uuid": "X0205",
+            "type": "X02",
+            "floor": "05",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0206",
+            "type": "X02",
+            "floor": "06",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0207",
+            "type": "X02",
+            "floor": "07",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0208",
+            "type": "X02",
+            "floor": "08",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0209",
+            "type": "X02",
+            "floor": "09",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0210",
+            "type": "X02",
+            "floor": "10",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0211",
+            "type": "X02",
+            "floor": "11",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0212",
+            "type": "X02",
+            "floor": "12",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0213",
+            "type": "X02",
+            "floor": "13",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0214",
+            "type": "X02",
+            "floor": "14",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+
+
+        {
+            "uuid": "X0303",
+            "type": "X03",
+            "floor": "03",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+
+        },
+        {
+            "uuid": "X0304",
+            "type": "X03",
+            "floor": "04",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+
+        },
+        {
+            "uuid": "X0305",
+            "type": "X03",
+            "floor": "05",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0306",
+            "type": "X03",
+            "floor": "06",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0307",
+            "type": "X03",
+            "floor": "07",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0308",
+            "type": "X03",
+            "floor": "08",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0309",
+            "type": "X03",
+            "floor": "09",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0310",
+            "type": "X03",
+            "floor": "10",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0311",
+            "type": "X03",
+            "floor": "11",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0312",
+            "type": "X03",
+            "floor": "12",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0313",
+            "type": "X03",
+            "floor": "13",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0314",
+            "type": "X03",
+            "floor": "14",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        
+        
+
+        {
+            "uuid": "X0403",
+            "type": "X04",
+            "floor": "03",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+
+        },
+        {
+            "uuid": "X0404",
+            "type": "X04",
+            "floor": "04",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+
+        },
+        {
+            "uuid": "X0405",
+            "type": "X04",
+            "floor": "05",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0406",
+            "type": "X04",
+            "floor": "06",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0407",
+            "type": "X04",
+            "floor": "07",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0408",
+            "type": "X04",
+            "floor": "08",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0409",
+            "type": "X04",
+            "floor": "09",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0410",
+            "type": "X04",
+            "floor": "10",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0411",
+            "type": "X04",
+            "floor": "11",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0412",
+            "type": "X04",
+            "floor": "12",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0413",
+            "type": "X04",
+            "floor": "13",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0414",
+            "type": "X04",
+            "floor": "14",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+
+
+        
+
+        {
+            "uuid": "X0703",
+            "type": "X07",
+            "floor": "03",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+
+        },
+        {
+            "uuid": "X0704",
+            "type": "X07",
+            "floor": "04",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+
+        },
+        {
+            "uuid": "X0705",
+            "type": "X07",
+            "floor": "05",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0706",
+            "type": "X07",
+            "floor": "06",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0707",
+            "type": "X07",
+            "floor": "07",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0708",
+            "type": "X07",
+            "floor": "08",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0709",
+            "type": "X07",
+            "floor": "09",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0710",
+            "type": "X07",
+            "floor": "10",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0711",
+            "type": "X07",
+            "floor": "11",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0712",
+            "type": "X07",
+            "floor": "12",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0713",
+            "type": "X07",
+            "floor": "13",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0714",
+            "type": "X07",
+            "floor": "14",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+
+        
+
+        {
+            "uuid": "X0803",
+            "type": "X08",
+            "floor": "03",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+
+        },
+        {
+            "uuid": "X0804",
+            "type": "X08",
+            "floor": "04",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+
+        },
+        {
+            "uuid": "X0805",
+            "type": "X08",
+            "floor": "05",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0806",
+            "type": "X08",
+            "floor": "06",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0807",
+            "type": "X08",
+            "floor": "07",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0808",
+            "type": "X08",
+            "floor": "08",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0809",
+            "type": "X08",
+            "floor": "09",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0810",
+            "type": "X08",
+            "floor": "10",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0811",
+            "type": "X08",
+            "floor": "11",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0812",
+            "type": "X08",
+            "floor": "12",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0813",
+            "type": "X08",
+            "floor": "13",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0814",
+            "type": "X08",
+            "floor": "14",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+
+
+        
+
+        {
+            "uuid": "X0903",
+            "type": "X09",
+            "floor": "03",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+
+        },
+        {
+            "uuid": "X0904",
+            "type": "X09",
+            "floor": "04",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+
+        },
+        {
+            "uuid": "X0905",
+            "type": "X09",
+            "floor": "05",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0906",
+            "type": "X09",
+            "floor": "06",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0907",
+            "type": "X09",
+            "floor": "07",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0908",
+            "type": "X09",
+            "floor": "08",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0909",
+            "type": "X09",
+            "floor": "09",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0910",
+            "type": "X09",
+            "floor": "10",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0911",
+            "type": "X09",
+            "floor": "11",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0912",
+            "type": "X09",
+            "floor": "12",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0913",
+            "type": "X09",
+            "floor": "13",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0914",
+            "type": "X09",
+            "floor": "14",
+            "area": 42,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+
+
+        {
+            "uuid": "X0503",
+            "type": "X05",
+            "floor": "03",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0504",
+            "type": "X05",
+            "floor": "04",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0505",
+            "type": "X05",
+            "floor": "05",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0506",
+            "type": "X05",
+            "floor": "06",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0507",
+            "type": "X05",
+            "floor": "07",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0508",
+            "type": "X05",
+            "floor": "08",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0509",
+            "type": "X05",
+            "floor": "09",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0510",
+            "type": "X05",
+            "floor": "10",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0511",
+            "type": "X05",
+            "floor": "11",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0512",
+            "type": "X05",
+            "floor": "12",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0513",
+            "type": "X05",
+            "floor": "13",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0514",
+            "type": "X05",
+            "floor": "14",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        
+
+        {
+            "uuid": "X0603",
+            "type": "X06",
+            "floor": "03",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0604",
+            "type": "X06",
+            "floor": "04",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0605",
+            "type": "X06",
+            "floor": "05",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0606",
+            "type": "X06",
+            "floor": "06",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0607",
+            "type": "X06",
+            "floor": "07",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0608",
+            "type": "X06",
+            "floor": "08",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0609",
+            "type": "X06",
+            "floor": "09",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0610",
+            "type": "X06",
+            "floor": "10",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0611",
+            "type": "X06",
+            "floor": "11",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0612",
+            "type": "X06",
+            "floor": "12",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0613",
+            "type": "X06",
+            "floor": "13",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X0614",
+            "type": "X06",
+            "floor": "14",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+
+
+        {
+            "uuid": "X1103",
+            "type": "X11",
+            "floor": "03",
+            "area": 61,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1104",
+            "type": "X11",
+            "floor": "04",
+            "area": 61,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1105",
+            "type": "X11",
+            "floor": "05",
+            "area": 61,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1106",
+            "type": "X11",
+            "floor": "06",
+            "area": 61,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1107",
+            "type": "X11",
+            "floor": "07",
+            "area": 61,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1108",
+            "type": "X11",
+            "floor": "08",
+            "area": 61,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1109",
+            "type": "X11",
+            "floor": "09",
+            "area": 61,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1110",
+            "type": "X11",
+            "floor": "10",
+            "area": 61,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1111",
+            "type": "X11",
+            "floor": "11",
+            "area": 61,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1112",
+            "type": "X11",
+            "floor": "12",
+            "area": 61,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1113",
+            "type": "X11",
+            "floor": "13",
+            "area": 61,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1114",
+            "type": "X11",
+            "floor": "14",
+            "area": 61,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        
+
+        {
+            "uuid": "X1203",
+            "type": "X12",
+            "floor": "03",
+            "area": 34,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1204",
+            "type": "X12",
+            "floor": "04",
+            "area": 34,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1205",
+            "type": "X12",
+            "floor": "05",
+            "area": 34,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1206",
+            "type": "X12",
+            "floor": "06",
+            "area": 34,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1207",
+            "type": "X12",
+            "floor": "07",
+            "area": 34,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1208",
+            "type": "X12",
+            "floor": "08",
+            "area": 34,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1210",
+            "type": "X12",
+            "floor": "10",
+            "area": 34,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1211",
+            "type": "X12",
+            "floor": "11",
+            "area": 34,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1212",
+            "type": "X12",
+            "floor": "12",
+            "area": 34,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1213",
+            "type": "X12",
+            "floor": "13",
+            "area": 34,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 1
+                }
+            ]
+        },
+
+
+        {
+            "uuid": "X1303",
+            "type": "X13",
+            "floor": "03",
+            "area": 81,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1304",
+            "type": "X13",
+            "floor": "04",
+            "area": 81,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1305",
+            "type": "X13",
+            "floor": "05",
+            "area": 81,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1306",
+            "type": "X13",
+            "floor": "06",
+            "area": 81,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1307",
+            "type": "X13",
+            "floor": "07",
+            "area": 81,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1308",
+            "type": "X13",
+            "floor": "08",
+            "area": 81,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1310",
+            "type": "X13",
+            "floor": "10",
+            "area": 81,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1311",
+            "type": "X13",
+            "floor": "11",
+            "area": 81,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1312",
+            "type": "X13",
+            "floor": "12",
+            "area": 81,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1313",
+            "type": "X13",
+            "floor": "13",
+            "area": 81,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                }
+            ]
+        },
+
+        {
+            "uuid": "X13N2",
+            "type": "X13N2",
+            "floor": "02",
+            "area": 84,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+
+        {
+            "uuid": "X1603",
+            "type": "X16",
+            "floor": "03",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1604",
+            "type": "X16",
+            "floor": "04",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1605",
+            "type": "X16",
+            "floor": "05",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1606",
+            "type": "X16",
+            "floor": "06",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1607",
+            "type": "X16",
+            "floor": "07",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1608",
+            "type": "X16",
+            "floor": "08",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1609",
+            "type": "X16",
+            "floor": "09",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1610",
+            "type": "X16",
+            "floor": "10",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1611",
+            "type": "X16",
+            "floor": "11",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1612",
+            "type": "X16",
+            "floor": "12",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1613",
+            "type": "X16",
+            "floor": "13",
+            "area": 91,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                }
+            ]
+        },
+        
+
+        {
+            "uuid": "X16N2",
+            "type": "X16N2",
+            "floor": "02",
+            "area": 84,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+
+
+        {
+            "uuid": "X1402",
+            "type": "X14",
+            "floor": "02",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1403",
+            "type": "X14",
+            "floor": "03",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1404",
+            "type": "X14",
+            "floor": "04",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1405",
+            "type": "X14",
+            "floor": "05",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1406",
+            "type": "X14",
+            "floor": "06",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1407",
+            "type": "X14",
+            "floor": "07",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1408",
+            "type": "X14",
+            "floor": "08",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1409",
+            "type": "X14",
+            "floor": "09",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1410",
+            "type": "X14",
+            "floor": "10",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1411",
+            "type": "X14",
+            "floor": "11",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1412",
+            "type": "X14",
+            "floor": "12",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1413",
+            "type": "X14",
+            "floor": "13",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+
+        
+
+        {
+            "uuid": "X1502",
+            "type": "X15",
+            "floor": "02",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1503",
+            "type": "X15",
+            "floor": "03",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1504",
+            "type": "X15",
+            "floor": "04",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1505",
+            "type": "X15",
+            "floor": "05",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1506",
+            "type": "X15",
+            "floor": "06",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1507",
+            "type": "X15",
+            "floor": "07",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1508",
+            "type": "X15",
+            "floor": "08",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1509",
+            "type": "X15",
+            "floor": "09",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1510",
+            "type": "X15",
+            "floor": "10",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1511",
+            "type": "X15",
+            "floor": "11",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1512",
+            "type": "X15",
+            "floor": "12",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "uuid": "X1513",
+            "type": "X15",
+            "floor": "13",
+            "area": 82,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+            ]
+        },
+
+
+        {
+            "uuid": "X1703",
+            "type": "X17",
+            "floor": "03",
+            "area": 35,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "uuid": "X1704",
+            "type": "X17",
+            "floor": "04",
+            "area": 35,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "uuid": "X1705",
+            "type": "X17",
+            "floor": "05",
+            "area": 35,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "uuid": "X1706",
+            "type": "X17",
+            "floor": "06",
+            "area": 35,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "uuid": "X1707",
+            "type": "X17",
+            "floor": "07",
+            "area": 35,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "uuid": "X1708",
+            "type": "X17",
+            "floor": "08",
+            "area": 35,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "uuid": "X1709",
+            "type": "X17",
+            "floor": "09",
+            "area": 35,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "uuid": "X1710",
+            "type": "X17",
+            "floor": "10",
+            "area": 35,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "uuid": "X1711",
+            "type": "X17",
+            "floor": "11",
+            "area": 35,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "uuid": "X1712",
+            "type": "X17",
+            "floor": "12",
+            "area": 35,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "uuid": "X1713",
+            "type": "X17",
+            "floor": "13",
+            "area": 35,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 1
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                }
+            ]
+        },
+
+
+        {
+            "uuid": "X1803",
+            "type": "X18",
+            "floor": "03",
+            "area": 63,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                }
+                
+            ]
+        },
+        {
+            "uuid": "X1804",
+            "type": "X18",
+            "floor": "04",
+            "area": 63,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                }
+                
+            ]
+        },
+        {
+            "uuid": "X1805",
+            "type": "X18",
+            "floor": "05",
+            "area": 63,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                }
+                
+            ]
+        },
+        {
+            "uuid": "X1806",
+            "type": "X18",
+            "floor": "06",
+            "area": 63,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                }
+                
+            ]
+        },
+        {
+            "uuid": "X1807",
+            "type": "X18",
+            "floor": "07",
+            "area": 63,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                }
+                
+            ]
+        },
+        {
+            "uuid": "X1808",
+            "type": "X18",
+            "floor": "08",
+            "area": 63,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                }
+                
+            ]
+        },
+        {
+            "uuid": "X1809",
+            "type": "X18",
+            "floor": "09",
+            "area": 63,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                }
+                
+            ]
+        },
+        {
+            "uuid": "X1810",
+            "type": "X18",
+            "floor": "10",
+            "area": 63,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                }
+                
+            ]
+        },
+        {
+            "uuid": "X1811",
+            "type": "X18",
+            "floor": "11",
+            "area": 63,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                }
+                
+            ]
+        },
+        {
+            "uuid": "X1812",
+            "type": "X18",
+            "floor": "12",
+            "area": 63,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                }
+                
+            ]
+        },
+        {
+            "uuid": "X1813",
+            "type": "X18",
+            "floor": "13",
+            "area": 63,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                }
+                
+            ]
+        },
+        {
+            "uuid": "X1814",
+            "type": "X18",
+            "floor": "14",
+            "area": 63,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 2
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                }
+                
+            ]
+        },
+
+
+
+        {
+            "uuid": "XPH-A",
+            "type": "XPH_A",
+            "floor": "14",
+            "area": 125,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 3
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 1
+                },
+                {
+                    "name": "Vestidor",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+                
+            ]
+        },
+
+        {
+            "uuid": "XPH-B",
+            "type": "XPH_B",
+            "floor": "14",
+            "area": 154,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 3
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 3
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Vestidor",
+                    "amount": 1
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                }
+                
+            ]
+        },
+
+        {
+            "uuid": "XPH-C",
+            "type": "XPH_C",
+            "floor": "14",
+            "area": 124,
+            "avaliability": true,
+            "vtUrl": "T05-06",
+            "rooms": [
+                {
+                    "name": "Recámara",
+                    "amount": 3
+                },
+                {
+                    "name": "Cocina",
+                    "amount": 1
+                },
+                {
+                    "name": "Baño",
+                    "amount": 2
+                },
+                {
+                    "name": "Comedor",
+                    "amount": 1
+                },
+                {
+                    "name": "Lavado",
+                    "amount": 1
+                },
+                {
+                    "name": "Sala",
+                    "amount": 2
+                },
+                {
+                    "name": "Balcón",
+                    "amount": 1
+                },
+                {
+                    "name": "Vestidor",
+                    "amount": 1
+                }
+                
+            ]
+        }
+    ]
+}

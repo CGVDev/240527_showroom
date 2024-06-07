@@ -1,0 +1,74 @@
+import { Suspense, useContext, useRef } from "react";
+import styled from "styled-components";
+import { Canvas } from "@react-three/fiber";
+import { animated as a } from "@react-spring/three";
+import { OrbitControls } from "@react-three/drei";
+import { ACESFilmicToneMapping, SRGBColorSpace, VSMShadowMap } from "three";
+import { XenterLoader } from "../components/XenterLoader";
+import { ApartmentLoader } from "../../components/ApartmentLoader";
+import { ControlContext } from "../context/ControlContext";
+import { VRLoader } from "../components/VRLoader";
+import { ApartmentFactory } from "../../utils/ApartmentFactory";
+import { Apartment3D } from "../components/Apartment3D";
+import { SunnyLoader } from "../../components/SunnyLoader";
+import { Observer } from "./Observer";
+import { useGesture } from "@use-gesture/react";
+import { Stage } from "../utils/Stages";
+import { ProjectOptions } from "../utils/ProjectOptions";
+
+export const Content3DStage3 = ()=>{
+
+    const AnimatedOrbitControls = a(OrbitControls);
+
+    const { state } = useContext(ControlContext);
+
+    return(
+        <Main3D>
+                    <Canvas
+                        // ref={ canvasRef }
+                        gl={ { 
+                            antialias: true, 
+                            outputColorSpace: SRGBColorSpace,
+                            toneMapping: ACESFilmicToneMapping,
+                            toneMappingExposure: 1
+                        } }
+                        camera={{ position: [0, 8, 8], fov: 17.5, near: 0.2, far: 100 }} 
+                        dpr={[1,2]}
+                        shadows="soft"
+                        tone-mapping={ ACESFilmicToneMapping }
+                        shadow-map-type={ VSMShadowMap }
+                    >
+                
+                        <Suspense>
+                            <MultiVRLoader 
+                                urls={ state.favorites.map((fav)=>{
+                                    return state.api.getModelRoute(`types/${ApartmentFactory.TOUR[fav.type]}/scene.gltf`)
+                                })}
+                            />
+                        </Suspense>
+                        <AnimatedOrbitControls 
+                                enablePan={ false }
+                                enableDamping={ true } 
+                                dampingFactor={ 0.1 } 
+                                minDistance={ 7.5 } 
+                                maxDistance={ 7.5 } 
+                                minPolarAngle={ 0 } 
+                                maxPolarAngle={ Math.PI * 0.45 }
+                                // target-x={ tx }
+                                // target-y={ ty }
+                                // target-z={ tz }
+                                enabled={ state.enabledControls }
+                                makeDefault
+                            />
+                    </Canvas>
+            
+        </Main3D>
+        
+    );
+};
+
+const Main3D = styled.div`
+    width: 100%;
+    height: 100%;
+    position: relative;
+`;
